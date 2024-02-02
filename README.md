@@ -22,9 +22,9 @@ Step 2: Click on the configuration file.
 ![Capture7](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/c3a2dd76-1fcd-4c61-bf84-3c2011b49c6d)
 Step 3: You've been redirected to the folder that contains all your primary documents for libresprite. And no, not the portable download. All the files are saved locally on your PC for libresprite. IMPORTANT: Make sure you close libre sprite after opening the configuration files!!! Otherwise, this won't work. Right-click on libresprite.ini and delete the file.
 ![Capture8](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/374a8ce3-a6af-4243-be2e-62b81ea07df0)
+Step 4: Re-open libresprite.
 ![Capture9](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/d0f6160c-8cfe-4f79-83b0-2ea93316b66a)
 
-Step 4: Re-open libresprite.
 
 Step 5: Enjoy TwT
 
