@@ -11,6 +11,9 @@ Reproduce:
 ![Capture3](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/b469a576-1bc4-47b8-87ad-eef93b318f32)
 ![Capture5](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/e1db9993-3264-420a-8795-6b292a1b26f1)
 
+
+
+
 Fix:
 ![Capture5](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/e4381ce4-3e8e-490b-8801-cec693050de7)
 ![Capture6](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/10d30a02-4618-4e0b-a239-ec89f9b6c9a2)
