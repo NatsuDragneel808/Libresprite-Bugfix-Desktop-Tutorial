@@ -1,8 +1,9 @@
-Kouta Hania _ NatsuDragneel808
+Kouta Hania - NatsuDragneel808
 
-This tutorial is a bug fix in libresprite 1.0
+(This tutorial is ui/screen scaling 400% bug fix in LibreSprite 1.0)
 
 The Issue:
+As someone who casually deals with attempting to touch all the features in whatever app I open, I believe that this feature should be removed. There are 4 options in preferences --> general --> screen scaling (default=200%) & ui scaling (default=100%). The 4 options are 100%, 200%, 300%, and %400% in the drop down. I ended up setting both to 400% which made the app completely unusable since it was scaled so close I could only see the top of the menu for File/Edit/Sprite and La out of Layers. I think 200% should be the maximum to prevent anyone else from messing it up like I did. Why? Because I spent hours upon hours pulling my hair out trying to fix the issue. There's no support (forums/tutorials/youtube videos/git/googlesolutions/etc) for this issue and reinstalling the libresprite files or restarting the pc doesn't fix it. However, after calming myself and thinking I managed to fix the issue and return the app to normal. I'm opening a project on my GitHub for you to follow a fix if you run into this issue.
 
 Reproduce:
 ![Capture](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/dd228431-e02b-4f64-8e15-ba1101e5502c)
@@ -17,8 +18,18 @@ Fix:
 ![Capture8](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/374a8ce3-a6af-4243-be2e-62b81ea07df0)
 ![Capture9](https://github.com/NatsuDragneel808/desktop-tutorial/assets/76171803/d0f6160c-8cfe-4f79-83b0-2ea93316b66a)
 
+Step 1: Navigate using the arrow keys to edit. Afterward, the drop-down menu appears make sure you're on the top selection. Mine was *undo history*. From there press your arrow key up (Although you can't see it, you'll be hovering above preferences) Press enter and you should now be in preferences. 
+
+Step 2: Click on the configuration file.
+
+Step 3: You've been redirected to the folder that contains all your primary documents for libresprite. And no, not the portable download. All the files are saved locally on your PC for libresprite. IMPORTANT: Make sure you close libre sprite after opening the configuration files!!! Otherwise, this won't work. Right-click on libresprite.ini and delete the file.
+
+Step 4: Re-open libresprite.
+
+Step 5: Enjoy TwT
+
 
 
 Links:
-Bug Report - 
-Libresprite - 
+Bug Report - https://github.com/LibreSprite/LibreSprite/issues/445
+Libresprite - https://libresprite.github.io/#!/
